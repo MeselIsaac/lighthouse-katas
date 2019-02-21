@@ -21,14 +21,3 @@ console.log(instructorWithLongestName([
   {name: "David", course: "iOS"},
   {name: "Domascus", course: "Web"}
 ]));
-
-/*//var person = {
-  firstName: "John",
-  lastName: "Doe",
-  age: 50,
-  eyeColor: "blue"
-};
-
-var instructors = {
-  name: "Samuel", ""
-}*/
